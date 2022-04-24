@@ -5,7 +5,7 @@
 ### Base
 - [ ] Fundamental & Syntax
 - [ ] What's OOP ?
-- [ ] Limitation & advantages
+- [ ] Advantages & Disadvantages <a href="https://www.geeksforgeeks.org/benefits-advantages-of-oop/#:~:text=It%20is%20not%20suitable%20for,be%20natural%20for%20some%20people"> Reference </a>
 
 ## Next
 
@@ -26,7 +26,7 @@
 - [ ] Reusability
 - [ ] Inheritance types
 - [ ] Can OOP exist without Inheritance
-- [ ] Limitation of Inheritance
+- [ ] Limitation of Inheritance 
 
 ## Abstraction
 
