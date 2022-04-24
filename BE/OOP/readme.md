@@ -6,14 +6,12 @@
 - [ ] Fundamental & Syntax
 - [ ] What's OOP ?
 - [ ] Limitation & advantages
-- [ ] Fundamental & Syntax
 
 ## Next
 
 - [ ] Different Class & Object
 - [ ] Access Modifier
 - [ ] Constructor & Destructor
-- [ ] Access Modifier
 
 ## Polymorfisme
 
@@ -32,9 +30,9 @@
 
 ## Abstraction
 
-- [ ] When to use
-- [ ] Difference between Inheritance and Abstraction
-- [ ] Difference between Encapsulation and Abstraction
+- [ ] When to use <a href="https://www.tutorialspoint.com/when-to-use-an-abstract-class-and-when-to-use-an-interface-in-java"> ( Reference ) </a>
+- [ ] Difference between Inheritance and Abstraction <a href="https://pediaa.com/what-is-the-difference-between-abstraction-and-inheritance/#:~:text=The%20main%20difference%20between%20abstraction,of%20an%20already%20existing%20class"> ( Reference )</a>
+- [ ] Difference between Encapsulation and Abstraction <a href="https://www.guru99.com/difference-between-abstraction-and-encapsulation.html"> ( Reference ) </a>
 
 ## Nice to know
 
