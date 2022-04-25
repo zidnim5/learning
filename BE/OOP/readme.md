@@ -23,10 +23,9 @@
 
 - [ ] Subclass
 - [ ] Superclass
-- [ ] Reusability
-- [ ] Inheritance types
+- [ ] Reusability <a href="https://www.quora.com/What-is-reusability-in-OOP"> ( Reference ) </a>
+- [ ] Inheritance types <a href="https://www.dotnettricks.com/learn/oops/understanding-inheritance-and-different-types-of-inheritance"> ( Reference ) </a>
 - [ ] Can OOP exist without Inheritance
-- [ ] Limitation of Inheritance 
 
 ## Abstraction
 
