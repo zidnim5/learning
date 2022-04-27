@@ -42,6 +42,7 @@
 - [ ] Super Keyword
 - [ ] Cons Keyword
 - [ ] Wrapper Class <a href="https://dev.to/fadymr/php-create-a-simple-session-wrapper-class-dpk"> ( Reference ) </a>
+- [ ] Interface <a href="https://medium.com/@Dewey92/oop-interface-what-ca16de0359af"> ( Reference ) </a>
 
 
 
